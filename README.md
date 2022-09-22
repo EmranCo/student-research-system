@@ -77,9 +77,7 @@ student: user = safi@safi.com
 ##### Student View Paper
 ![Student View Paper](/Docs/studentviewpaper.png?raw=true "Student View Paper")
 ## Authors
-
- [![Fahad Yousaf Mahar](https://avatars2.githubusercontent.com/u/20330772?s=60)](https://github.com/fahadyousafmahar)
-
+Emran Al-Haddad
 
 ## Acknowledgments
 
